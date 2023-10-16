@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Content-Package-Id: my_packages:experiencefra:1.0
+Content-Package-Roots: /content/experience-fragments/experiencefragxf
+Content-Package-Type: content
+
