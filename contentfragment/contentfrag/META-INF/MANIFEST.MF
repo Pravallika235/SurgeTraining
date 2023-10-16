@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Content-Package-Id: my_packages:contentfrag:1.0
+Content-Package-Roots: /conf/aemgeeks/settings/dam/cfm
+Content-Package-Type: content
+
