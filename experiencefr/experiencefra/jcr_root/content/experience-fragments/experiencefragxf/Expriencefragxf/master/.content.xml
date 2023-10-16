@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2023-10-11T12:38:17.161+05:30"
+        cq:lastModifiedBy="admin"
+        cq:tags="[]"
+        cq:template="/conf/we-retail/settings/wcm/templates/experience-fragment-web-variation"
+        cq:xfMasterVariation="{Boolean}true"
+        cq:xfVariantType="web"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Experience Fragment"
+        sling:resourceType="weretail/components/structure/xfpage">
+        <root
+            jcr:lastModified="{Date}2016-11-22T17:31:48.669+02:00"
+            jcr:lastModifiedBy="admin"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/responsivegrid">
+            <title
+                jcr:created="{Date}2023-10-11T12:27:20.849+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2023-10-11T12:27:43.084+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                jcr:title="Campfire(xf)"
+                sling:resourceType="foundation/components/title"/>
+            <text
+                jcr:created="{Date}2023-10-11T12:27:51.166+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2023-10-11T12:28:09.375+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="foundation/components/text"
+                text="&lt;h3>First campfire[&lt;a href=&quot;https://en.wikipedia.org/w/index.php?title=Campfire&amp;amp;action=edit&amp;amp;section=2&quot; title=&quot;Edit section: First campfire&quot;>edit&lt;/a>]&lt;/h3>&#xa;&lt;p>A new analysis of burned&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/Antelope&quot; title=&quot;Antelope&quot;>antelope&lt;/a>&amp;nbsp;bones from&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/Caves&quot; title=&quot;Caves&quot;>caves&lt;/a>&amp;nbsp;in&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/Swartkrans&quot; title=&quot;Swartkrans&quot;>Swartkrans&lt;/a>,&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/South_Africa&quot; title=&quot;South Africa&quot;>South Africa&lt;/a>, confirms that&amp;nbsp;&lt;i>&lt;a href=&quot;https://en.wikipedia.org/wiki/Australopithecus_robustus&quot; title=&quot;Australopithecus robustus&quot;>Australopithecus robustus&lt;/a>&lt;/i>&amp;nbsp;and/or&amp;nbsp;&lt;i>&lt;a href=&quot;https://en.wikipedia.org/wiki/Homo_erectus&quot; title=&quot;Homo erectus&quot;>Homo erectus&lt;/a>&lt;/i>&amp;nbsp;built campfires roughly 1.6 million years ago.&lt;sup>&lt;a href=&quot;https://en.wikipedia.org/wiki/Campfire#cite_note-1&quot;>[1]&lt;/a>&lt;/sup>&amp;nbsp;Nearby evidence within&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/Wonderwerk_Cave&quot; title=&quot;Wonderwerk Cave&quot;>Wonderwerk Cave&lt;/a>, at the edge of the&amp;nbsp;&lt;a href=&quot;https://en.wikipedia.org/wiki/Kalahari_Desert&quot; title=&quot;Kalahari Desert&quot;>Kalahari Desert&lt;/a>, has been called the oldest known controlled fire.&lt;sup>&lt;a href=&quot;https://en.wikipedia.org/wiki/Campfire#cite_note-2&quot;>[2]&lt;/a>&lt;/sup>&amp;nbsp;Microscopic analysis of plant ash and charred bone fragments suggests that materials in the cave were not heated above about 1,300&amp;nbsp;°F (704&amp;nbsp;°C). This is consistent with preliminary findings that the fires burned grasses, brush, and leaves. Such fuel would not produce hotter flames. The data suggests humans were cooking prey by campfire as far back as the first appearance of&amp;nbsp;&lt;i>Homo erectus&lt;/i>&amp;nbsp;1.9 million years ago.&lt;sup>&lt;a href=&quot;https://en.wikipedia.org/wiki/Campfire#cite_note-3&quot;>[3]&lt;/a>&lt;/sup>&lt;/p>&#xa;"
+                textIsRich="true"/>
+        </root>
+    </jcr:content>
+</jcr:root>
